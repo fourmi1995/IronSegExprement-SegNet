@@ -15,8 +15,7 @@
 ## Usage
 1. Dataset
 '''
-Referecne the last github https://github.com/fourmi1995/IronDataset-CamvidStyle
-'''
+Referecne the last github https://github.com/fourmi1995/IronData_CamvidStyle
 
 2. Convert CamVid dataset to TFRecord format
 ```
