@@ -47,5 +47,4 @@ python eval.py \
 - https://github.com/eragonruan/refinenet-image-segmentation
 - https://github.com/DrSleep/tensorflow-deeplab-resnet
 - https://github.com/aizawan/segnet
-# IronSegExprement-SegNet
-# IronSegExperiment-SegNet
+原github:https://github.com/tkuanlun350/Tensorflow-SegNet
